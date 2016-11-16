@@ -1,2 +1,7 @@
 name: dart_reckoning
 description: A date range interpreter
+dependencies:
+  args: any
+  dart_style: any
+  test: any
+
